@@ -1,3 +1,3 @@
 <?php
-echo "TESt";
+echo "TESt to rebuild";
 ?>
